@@ -1,7 +1,7 @@
 <h1 align="center">SDK para boletos do Itaú</h1>
 <h3 align="center">Gere boletos de forma mais fácil com esse SDK, integrando com a API oficial<br> do Itaú e gerando PDFs no padrão do banco.</h3>
 <p align="center">
-        <a href="https://github.com/boletos-itau/releases" alt="Version">
+        <a href="https://github.com/boletos-itau/releases](https://github.com/lucassecond/SDK-boletos-itau-v2" alt="Version">
             <img src="https://img.shields.io/badge/version-1.0.0-green" />
         </a>
 </p>
