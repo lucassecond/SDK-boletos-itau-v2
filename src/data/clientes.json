@@ -1,0 +1,85 @@
+[
+  {
+    "id": "cliente-001",
+    "nome": "João Silva",
+    "tipo": "PF",
+    "documento": "12345678900",
+    "email": "joao.silva@email.com",
+    "telefone": "(11) 98765-4321",
+    "endereco": {
+      "logradouro": "Rua das Flores",
+      "numero": "123",
+      "complemento": "Apto 45",
+      "bairro": "Centro",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01310-100"
+    }
+  },
+  {
+    "id": "cliente-002",
+    "nome": "Maria Santos",
+    "tipo": "PF",
+    "documento": "98765432100",
+    "email": "maria.santos@email.com",
+    "telefone": "(21) 91234-5678",
+    "endereco": {
+      "logradouro": "Avenida Atlântica",
+      "numero": "456",
+      "bairro": "Copacabana",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "cep": "22021-000"
+    }
+  },
+  {
+    "id": "cliente-003",
+    "nome": "Empresa XYZ Ltda",
+    "tipo": "PJ",
+    "documento": "12345678000190",
+    "email": "contato@empresaxyz.com.br",
+    "telefone": "(11) 3456-7890",
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "numero": "1000",
+      "complemento": "10º andar",
+      "bairro": "Bela Vista",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "cep": "01310-100"
+    }
+  },
+  {
+    "id": "cliente-004",
+    "nome": "Pedro Oliveira",
+    "tipo": "PF",
+    "documento": "11122233344",
+    "email": "pedro.oliveira@email.com",
+    "telefone": "(31) 99876-5432",
+    "endereco": {
+      "logradouro": "Rua da Bahia",
+      "numero": "789",
+      "bairro": "Centro",
+      "cidade": "Belo Horizonte",
+      "estado": "MG",
+      "cep": "30160-012"
+    }
+  },
+  {
+    "id": "cliente-005",
+    "nome": "Tech Solutions S.A.",
+    "tipo": "PJ",
+    "documento": "98765432000111",
+    "email": "financeiro@techsolutions.com.br",
+    "telefone": "(48) 3234-5678",
+    "endereco": {
+      "logradouro": "Rua Felipe Schmidt",
+      "numero": "200",
+      "complemento": "Sala 301",
+      "bairro": "Centro",
+      "cidade": "Florianópolis",
+      "estado": "SC",
+      "cep": "88010-000"
+    }
+  }
+]

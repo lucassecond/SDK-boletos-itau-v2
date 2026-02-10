@@ -1,0 +1,39 @@
+{
+  "name": "boletos-itau",
+  "version": "1.0.0",
+  "description": "Integração com API de Boletos do Itaú - Sandbox",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js",
+    "watch": "tsc --watch",
+    "test:token": "ts-node src/scripts/test-token.ts",
+    "example": "ts-node src/examples/exemplo-uso.ts",
+    "example:boleto": "ts-node src/examples/exemplo-boleto-oficial.ts",
+    "example:pdf": "ts-node src/examples/exemplo-gerar-pdf.ts",
+    "test:valor": "ts-node src/examples/teste-valor.ts"
+  },
+  "keywords": [
+    "itau",
+    "boletos",
+    "api",
+    "sandbox"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/uuid": "^10.0.0",
+    "axios": "^1.6.0",
+    "bwip-js": "^4.8.0",
+    "dotenv": "^16.3.1",
+    "puppeteer": "^24.37.2",
+    "uuid": "^13.0.0"
+  },
+  "devDependencies": {
+    "@types/bwip-js": "^3.2.3",
+    "@types/node": "^20.10.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
